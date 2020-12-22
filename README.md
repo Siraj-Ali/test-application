@@ -1,0 +1,2 @@
+# test-application
+As Test : The needed task is to implement a small web application that have these specs:  1- It has only 1 page which called: product page. it contains 5 main data: product title, image, price, availability, and add-to-cart button. 2- Is has 2 languages (ar, en) and 2 regions(sa, ae). 3- The URL of the app should be in such format: www.domain.com/app-name/en/ae where the 'app-name' is the name of the app, 'en' is the language code, 'ae' is the region code.
